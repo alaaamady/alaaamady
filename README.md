@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alaa Mady</h1>
 <h3 align="center">A Full Stack Developer from Cairo, Egypt.</h3>
 
-- 🔭 I’m currently working on [Akalat](https://www.akalatapp.com/)
+- 🔭 I’m currently working on [Temple](https://temple.fans/)
 
-- 🌱 I’m currently learning **AWS, Next.js, Nest.js, NX, Strapi**
+- 🌱 I’m currently learning **AWS, Next.js, GraphQL, Jest**
 
 - 👯 I’m looking to collaborate on **NPOs, Open Source projects**
 
